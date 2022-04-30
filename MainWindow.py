@@ -2,7 +2,6 @@ from PyQt5.QtWidgets import QWidget, QStackedWidget, QSizePolicy, QVBoxLayout, Q
 from PyQt5 import QtCore
 from Homepage import Homepage
 from SecondPage import SecondPage
-import sys
 
 class MainWindow(QWidget):
     def __init__(self):
@@ -58,12 +57,3 @@ class MainWindow(QWidget):
         # Show the page
         self.secondPage.show()
 
-
-
-
-# Start the window
-if __name__ == "__main__":
-    app = QApplication(sys.argv)
-    window = MainWindow()
-    window.show()
-    sys.exit(app.exec())
