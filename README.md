@@ -10,6 +10,7 @@ We accept sharing and collaboration, as well as criticism in terms of style and 
 
 ## Glossary
 
-| File Name      | Description | Fast link |
-| ----------- | ----------- | ----------- |
-| Sample 1      | Switch different layout | [Go to the dir](https://github.com/OnlyMemole/pyqt-simple-page/tree/main/Sample%201) |
+| File Name      | Description | Fast link | Requirement |
+| ----------- | ----------- | ----------- | ----------- |
+| Sample 1      | Switch different layout | [Go to the dir](https://github.com/OnlyMemole/pyqt-simple-page/tree/main/Sample%201) | [PyQt5 library](https://pypi.org/project/PyQt5/) |
+| Sample 2      | Simple form | [Go to the dir](https://github.com/OnlyMemole/pyqt-simple-page/tree/main/Sample%202) | [PyQt5 library](https://pypi.org/project/PyQt5/) |
