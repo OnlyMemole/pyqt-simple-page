@@ -20,7 +20,6 @@ We accept sharing and collaboration, as well as criticism in terms of style and 
 
 - [ ] Login Form
 - [ ] Import style to the frame
-- [x] Webview Form
 - [ ] Frame without title bar
 
 
