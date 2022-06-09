@@ -14,12 +14,13 @@ We accept sharing and collaboration, as well as criticism in terms of style and 
 | ----------- | ----------- | ----------- | ----------- |
 | Sample 1      | Switch different layout | [Go to the dir](https://github.com/OnlyMemole/pyqt-simple-page/tree/main/Sample%201) | [PyQt5 library](https://pypi.org/project/PyQt5/) |
 | Sample 2      | Simple form | [Go to the dir](https://github.com/OnlyMemole/pyqt-simple-page/tree/main/Sample%202) | [PyQt5 library](https://pypi.org/project/PyQt5/) |
+| Sample 3      | WebView | [Go to the dir](https://github.com/OnlyMemole/pyqt-simple-page/tree/main/Sample%203) | [PyQt5 library](https://pypi.org/project/PyQt5/) & [PyQtWebEngine](https://pypi.org/project/PyQtWebEngine/) |
 
 ## To-Do List
 
 - [ ] Login Form
 - [ ] Import style to the frame
-- [ ] Webview Form
+- [x] Webview Form
 - [ ] Frame without title bar
 
 
